@@ -1,17 +1,16 @@
 {
-    "name": "robbiep/zbar-qrdecoder",
+    "name": "acharsoft/zbar-qrdecoder",
     "description": "A PHP wrapper for Zbar. Decodes images/photos containing QR codes.",
     "keywords": ["zbar","qr","qrcode","decode","php","laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Robbie Paul",
-            "email": "robbiepaul@me.com"
+            "name": "Mobin Poursalami",
+            "email": "mobinpou@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.5.0",
-        "symfony/process": "^3.0"
     },
     "require-dev" : {
         "phpunit/phpunit": "4.3.5",
